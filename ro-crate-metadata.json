@@ -1,0 +1,46 @@
+{
+  "@context": "https://w3id.org/ro/crate/1.1/context",
+  "@graph": [
+    {
+      "@type": "CreativeWork",
+      "@id": "ro-crate-metadata.json",
+      "conformsTo": {
+        "@id": "https://w3id.org/ro/crate/1.1"
+      },
+      "about": {
+        "@id": "./"
+      }
+    },
+    {
+      "@type": [
+        "Dataset"
+      ],
+      "@id": "./",
+      "name": "This dataset compiles key macroeconomic and financial indicators for Spain covering the period 2020&ndash;2024. It includes five structured tables: (1) Macroeconomic Indicators (GDP growth, inflation, unemployment, trade balance, government deficit, ",
+      "description": "This dataset compiles key macroeconomic and financial indicators for Spain covering the period 2020&ndash;2024. It includes five structured tables: (1) Macroeconomic Indicators (GDP growth, inflation, unemployment, trade balance, government deficit, ",
+      "datePublished": "2026-03-20",
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "author": {
+        "@id": "https://orcid.org/0000-0002-8401-8018"
+      },
+      "url": "https://github.com/juanmoisesd/spain-economic-impact-database-2020-2024",
+      "keywords": "cc0, dataset, economic-indicators, financial-markets, gdp, inflation, macroeconomics, open-data, spain, tourism, unemployment, zenodo"
+    },
+    {
+      "@type": "Person",
+      "@id": "https://orcid.org/0000-0002-8401-8018",
+      "name": "Juan Moisés de la Serna Tuya",
+      "affiliation": {
+        "@id": "https://ror.org/0063t5s24"
+      },
+      "email": "juanmoises.delaserna@unir.net"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "CC0 1.0 Universal"
+    }
+  ]
+}
