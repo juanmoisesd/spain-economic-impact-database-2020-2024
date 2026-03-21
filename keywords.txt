@@ -1,0 +1,11 @@
+cc0, dataset, economic-indicators, financial-markets, gdp, inflation, macroeconomics, open-data, spain, tourism, unemployment, zenodo
+open-data
+dataset
+research
+science
+FAIR
+reproducibility
+open-science
+academic
+citation
+DOI
