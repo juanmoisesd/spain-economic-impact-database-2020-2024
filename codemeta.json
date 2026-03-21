@@ -1,26 +1,51 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
-  "@type": "Dataset",
-  "name": "Spain Economic Impact Database (2020-2024)",
-  "identifier": "10.5281/zenodo.18826963",
-  "url": "https://doi.org/10.5281/zenodo.18826963",
+  "@type": "SoftwareSourceCode",
+  "name": "This dataset compiles key macroeconomic and financial indicators for Spain covering the period 2020&ndash;2024. It includes five structured tables: (1) Macroeconomic Indicators (GDP growth, inflation, unemployment, trade balance, government deficit, ",
+  "description": "This dataset compiles key macroeconomic and financial indicators for Spain covering the period 2020&ndash;2024. It includes five structured tables: (1) Macroeconomic Indicators (GDP growth, inflation, unemployment, trade balance, government deficit, ",
+  "url": "https://github.com/juanmoisesd/spain-economic-impact-database-2020-2024",
+  "codeRepository": "https://github.com/juanmoisesd/spain-economic-impact-database-2020-2024",
+  "dateCreated": "2026-03-20",
+  "dateModified": "2026-03-20",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "version": "1.0.0",
   "author": [
     {
       "@type": "Person",
-      "givenName": "Juan Mois\u00e9s",
+      "givenName": "Juan Moisés",
       "familyName": "de la Serna Tuya",
-      "@id": "https://orcid.org/0000-0002-8401-8018"
+      "@id": "https://orcid.org/0000-0002-8401-8018",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Internacional de La Rioja (UNIR)"
+      },
+      "email": "juanmoises.delaserna@unir.net"
     }
   ],
-  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
   "keywords": [
-    "Spain",
-    "macroeconomics",
-    "GDP",
-    "economic indicators",
-    "unemployment",
+    "cc0",
+    "dataset",
+    "economic-indicators",
+    "financial-markets",
+    "gdp",
     "inflation",
+    "macroeconomics",
+    "open-data",
+    "spain",
     "tourism",
-    "financial markets"
-  ]
+    "unemployment",
+    "zenodo"
+  ],
+  "programmingLanguage": "HTML",
+  "maintainer": [
+    {
+      "@type": "Person",
+      "givenName": "Juan Moisés",
+      "familyName": "de la Serna Tuya"
+    }
+  ],
+  "funder": {
+    "@type": "Organization",
+    "name": "Universidad Internacional de La Rioja (UNIR)"
+  }
 }
