@@ -1,0 +1,23 @@
+{
+  "title": "This dataset compiles key macroeconomic and financial indicators for Spain cover",
+  "id": "juanmoisesd/spain-economic-impact-database-2020-2024",
+  "licenses": [
+    {
+      "name": "CC BY 4.0"
+    }
+  ],
+  "keywords": [
+    "cc0",
+    "citation",
+    "dataset",
+    "development-economics",
+    "economic-indicators",
+    "economics",
+    "fair-data",
+    "financial-markets",
+    "gdp",
+    "inflation"
+  ],
+  "description": "This dataset compiles key macroeconomic and financial indicators for Spain covering the period 2020&ndash;2024. It includes five structured tables: (1) Macroeconomic Indicators (GDP growth, inflation, unemployment, trade balance, government deficit, \n\nDOI: https://github.com/juanmoisesd/spain-economic-impact-database-2020-2024\nGitHub: https://github.com/juanmoisesd/spain-economic-impact-database-2020-2024\nAuthor: de la Serna, Juan Moisés",
+  "isPrivate": false
+}
